@@ -1,4 +1,5 @@
 42Project-PushSwap
+
 This project's goal is to make the student get in contact with the idea of sorting algorithms and complexity. In possession of a list of numbers, the program must be able to use only two stacks and a restricted number of movements in order to sort the list out.
 
 Mandatory
